@@ -10,7 +10,7 @@ This repository contains the code and resources for Group 3's Python projects fo
 | Hubert    | Dębowski | Programmer             |
 | Michał| Walencik    | Coffe Maker |
 
-#Geographic Data Visualization and Elevation Analysis
+# Geographic Data Visualization and Elevation Analysis
 
 ## What is Markdown
 Markdown is a simple markup language for formatting text, readable in its raw form. It uses characters like # for headings, * for italics, ** for bold. Allows you to create lists, tables, links, code. Popular in documentation and on GitHub.
