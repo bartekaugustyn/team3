@@ -130,12 +130,21 @@ elevation_statistics(df)
 ```
 
 ## Statistical Summary:
-Mean Elevation (Z): 237.48 meters
-Median Elevation (Z): 236.91 meters
-Minimum Elevation (Z): 222.14 meters
-Maximum Elevation (Z): 258.24 meters
-Standard Deviation (Z): 5.14 meters
-Range of Elevation (Z): 36.10 meters
+- **Mean Elevation (Z)**: 237.48
+- **Median Elevation (Z)**: 236.91
+- **Minimum Elevation (Z)**: 222.14
+- **Maximum Elevation (Z)**: 258.24
+- **Standard Deviation (Z)**: 5.14
+- **Range of Elevation (Z)**: 36.10
+
+### Correlation Matrix
+
+|     |     X     |     Y     |     Z     |
+|-----|-----------|-----------|-----------|
+|  X  |  1.000    | -0.010    | -0.030    |
+|  Y  | -0.010    |  1.000    |  0.311    |
+|  Z  | -0.030    |  0.311    |  1.000    |
+
 These statistics provide a detailed overview of the terrain's elevation, showing a moderately varied landscape. The standard deviation indicates how dispersed the elevation values are from the mean, while the range highlights the difference between the highest and lowest points in the dataset.
 
 # Conclusion
