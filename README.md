@@ -6,7 +6,7 @@ This repository contains the code and resources for Group 3's Python projects fo
 |----------|-----------|--------------------|
 | Bartosz     | Augustyn  | Project Lider |
 | Tymoteusz   | Maj     | Programmer         |
-| Kaushika    | Madushani|   Programmer          |
+| Kaushika    | Madushani|   Impostor         |
 | Hubert    | Dębowski | Programmer             |
 | Michał| Walencik    | Coffe Maker |
 
